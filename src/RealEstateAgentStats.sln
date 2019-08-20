@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29209.62
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{C703BAC9-7048-40A9-A9E5-283E8E13BDD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FundaApiClient", "Api\FundaApiClient.csproj", "{20176CB0-1AA0-46C6-A9DB-F9277258AE67}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FundaApiClient", "FundaApiClient\FundaApiClient.csproj", "{20176CB0-1AA0-46C6-A9DB-F9277258AE67}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{D178F99C-A933-4FD9-BAC1-4E6E371940D2}"
 EndProject

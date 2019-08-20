@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Api\FundaApiClient.csproj" />
+    <ProjectReference Include="..\FundaApiClient\FundaApiClient.csproj" />
   </ItemGroup>
 
   <ItemGroup>
