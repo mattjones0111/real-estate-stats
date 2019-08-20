@@ -1,0 +1,20 @@
+{
+  "AccountStatus": 0,
+  "EmailNotConfirmed": false,
+  "ValidationFailed": false,
+  "ValidationReport": null,
+  "Website": 0,
+  "Metadata": {
+    "ObjectType": "Koopwoningen",
+    "Omschrijving": "Koopwoningen > Amsterdam | Tuin",
+    "Titel": "Huizen te koop in Amsterdam"
+  },
+  "Objects": [],
+  "Paging": {
+    "AantalPaginas": 681,
+    "HuidigePagina": 1,
+    "VolgendeUrl": "/~/koop/amsterdam/tuin/p2/",
+    "VorigeUrl": null
+  },
+  "TotaalAantalObjecten": 681
+}
